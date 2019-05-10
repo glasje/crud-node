@@ -1,0 +1,16 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "description": "desarrollo web services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jesus jimenez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.4",
+    "nodemon": "^1.19.0"
+  }
+}
